@@ -1,6 +1,5 @@
-import Root from "./Root"
+import Root from "./Root";
+
 export default function Home() {
-  return (
-    <Root />   
-  );
+  return <Root />;
 }
